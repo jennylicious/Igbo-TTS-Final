@@ -1,0 +1,23 @@
+# Reflection – Igbo TTS App Project
+
+## What Worked
+- Successfully connected to the ElevenLabs API using Gradio
+- Generated high-quality speech in Igbo using the Eze voice
+- Allowed users to type text, choose a voice, and play/download speech audio
+- Tuned pronunciation using punctuation and spacing
+
+## What Was Tricky
+- Voice like Antoni didn't pronounce Igbo words correctly
+- Understanding how to test different voices and find the best tone
+- Adjusting pronunciation with commas and pauses for tonal accuracy
+- Setting up Google Colab to manage files and run the app smoothly
+
+## How I Overcame It
+- Switched to the "Eze" voice ID for better Igbo tone
+- Broke Igbo words into syllables where needed
+- Added UI features like emojis, dropdowns, and download buttons to improve user experience
+- Got step-by-step help uploading everything to GitHub for final submission
+
+
+#Author
+Jennifer Onyeukwe
